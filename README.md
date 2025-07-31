@@ -1,10 +1,10 @@
 # notes
 This is the start of my .. Digital .. Engineering Codex ..
 In an effort to get more familiar with the GitHub interface, 
-as well as begin formalizing and structuring my technical inclinations, and investigations,
+as well as to begin formalizing and structuring my technical inclinations, and investigations,
 I will be adding any pertinent notes here 
-as I develop my understanding of electrical and engineering concepts, 
-expressing any tangential knowledge or notices spurred in the process,
+as I develop my understanding of electrical and engineering concepts.
+I will be expressing any tangential knowledge or notices spurred in the process,
 perhaps on a whim-like basis, or in contrast, perhaps more deliberate and intentful. 
 
 Here is a prospective table of contents (at least to start). 
