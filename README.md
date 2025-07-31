@@ -12,24 +12,48 @@ If things change, so will this table of contents.
 
 notes/
 │
+
 ├── README.md
+
 │
+
 ├── electrical/
+
 │   ├── signals-systems.md
+
 │   ├── smart-grids.md
+
 │   └── electronics-basics.md
+
 │
+
 ├── programming/
+
 │   ├── bash-commands.md
+
 │   ├── git-workflows.md
+
 │   └── chocolatey-setup.md
+
 │
+
 ├── server/
+
 │   ├── home-server-setup.md
+
 │   ├── port-forwarding.md
+
 │   └── docker-notes.md
+
 │
+
 └── misc/
-    ├── solar-principles.md
-    ├── spanish-tech-terms.md
-    └── book-summaries.md
+
+|    ├── solar-principles.md
+|   
+|    ├── spanish-tech-terms.md
+|    
+|    └── book-summaries.md
+
+
+
