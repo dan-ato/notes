@@ -3,7 +3,7 @@ This is the start of my very own, personal engineering codex:
 a growing collections of notes, concepts, and... notes on concepts
 as I journey through Electrical Engineering, DIY, and applied systems thinking. 
 
-## 🧭 Purpose
+## purpose
 
 In an effort to get more familiar with the GitHub interface, 
 as well as to begin formalizing and structuring my technical inclinations and investigations,
@@ -12,7 +12,7 @@ as I develop my understanding of electrical and engineering concepts.
 
 If you find anything useful, feel free to fork, adapt, or contribute.
 
-## 📂 Categories
+## categories
 
 | Area              | Description |
 |-------------------|-------------|
@@ -24,7 +24,7 @@ If you find anything useful, feel free to fork, adapt, or contribute.
 | `misc/`           | Book notes, system philosophy, misc brain dumps |
 
 
-## 🧠 Explore by Topic
+## Explore by Topic
 
 - [Electrical Notes](./electrical/)
 - [Programming](./programming/)
