@@ -19,8 +19,8 @@ If you find anything useful, feel free to fork, adapt, or contribute.
 | `electrical/`     | Signals, smart grids, electronics, energy systems |
 | `programming/`    | Scripting, automation, CLI tools, Git |
 | `server/`         | Home server notes, network config, Docker |
-| `finance/`        | Crypto, decentralized systems, financial strategy |
-| `language/`       | Spanish tech terms, phrase logs, etc |
+| `TDB/`        | TBD |
+| `TBD/`       | TBD |
 | `misc/`           | Book notes, system philosophy, misc brain dumps |
 
 
